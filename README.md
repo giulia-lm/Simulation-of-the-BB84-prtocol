@@ -1,4 +1,4 @@
-# Exploring text encryption with DistilBERT
+# Simulation of the BB84 protocol
 This project simulates the popular protocol proposed by Brennet & Brassard in 1984, using pennylane and showing its robusty with different probabilistic metrics such as Entropy and Mutual information. 
 
 ## Description
